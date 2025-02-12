@@ -1,44 +1,54 @@
 # Alpha Epsilon Pi Gamma Chi Chapter Website License
 
-## **1. Copyright Notice**
-This software and its content are the exclusive property of the **Alpha Epsilon Pi Gamma Chi Chapter** ("The Chapter"). All rights reserved.
+## **1. Copyright & Ownership**
+This software and all associated code, content, and materials are the exclusive property of the **Alpha Epsilon Pi Gamma Chi Chapter** ("The Chapter").  
+© 2025 Alpha Epsilon Pi Gamma Chi Chapter. **All rights reserved.**  
 
-© 2025 Alpha Epsilon Pi Gamma Chi Chapter. Unauthorized use, reproduction, or distribution is strictly prohibited.
+## **2. No Access to Source Code**
+The source code for this software is **strictly confidential and proprietary**. Under no circumstances may the source code be:
+- Distributed, shared, copied, or accessed by unauthorized individuals.
+- Reverse-engineered, decompiled, or modified.
+- Used for personal, commercial, or educational purposes outside of official fraternity operations.
 
-## **2. License Grant**
-This software is **licensed, not sold**. The Chapter grants **authorized members** a **non-exclusive, non-transferable, revocable license** to use and modify the software **solely for official chapter activities**.
-
-## **3. Restrictions**
-You may **NOT**:
-- Sell, lease, sublicense, or distribute this software outside of the Chapter.
-- Copy, modify, or create derivative works of the software **for commercial or personal use** outside of fraternity activities.
-- Use this software in a way that violates fraternity policies, federal/state laws, or university regulations.
-
-## **4. Authorized Users**
+## **3. Authorized Users**
 This software is intended only for:
 - **Active brothers** of Alpha Epsilon Pi Gamma Chi.
 - **Fraternity alumni** (if granted access by the Executive Board).
 - **Executive Board members**, who may modify and manage the software under fraternity oversight.
 
+## **4. Authorized Use**
+This software is **licensed** for use **only by the Alpha Epsilon Pi Gamma Chi Chapter** for internal operations. The software may be used for:
+- Managing fraternity communications, events, finances, and member accounts.
+- Providing information to fraternity members and potential new members.
+- Official chapter business as determined by the Executive Board.
+
+### 🚫 **Prohibited Uses**
+- 🚨 **NO Public Distribution** – The software and its components may not be published or shared.
+- 🚨 **NO Unauthorized Modifications** – Only authorized developers approved by the **Executive Board** may modify the software.
+- 🚨 **NO Commercial Use** – This software **may not** be used for profit, sold, or integrated into third-party applications.
+- 🚨 **NO External Hosting** – The software may **only** be hosted on platforms approved by the **Executive Board**.
+
 ## **5. Security & Data Protection**
-- Users must **not share login credentials** or unauthorized access.
+- Users must **not share login credentials** or grant unauthorized access.
+- All **user data is confidential** and must not be shared with third parties.
 - The Chapter takes reasonable security measures, but **users assume all risks related to data privacy**.
+- Unauthorized attempts to access, modify, or share the software **will result in immediate revocation of access**.
 
-## **6. Liability Disclaimer**
-THIS SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTIES OF ANY KIND. THE CHAPTER IS **NOT LIABLE** FOR:
-- Errors, bugs, or downtime affecting access to the software.
-- Financial loss, data breaches, or security vulnerabilities.
-- Any unauthorized modifications made by users.
-
-## **7. Termination & Revocation**
-The Chapter **reserves the right** to terminate access to this software at any time for any reason, including:
+## **6. License Termination**
+The Executive Board reserves the right to **terminate access** to the software at any time, especially in cases of:
 - Breach of this license agreement.
-- Unauthorized distribution or misuse of fraternity-related content.
-- Misconduct as determined by the Executive Board.
+- Unauthorized sharing, modification, or use of the software.
+- Any misconduct or security violations.
+
+## **7. Liability Disclaimer**
+THIS SOFTWARE IS PROVIDED **"AS IS"**, WITHOUT WARRANTIES OF ANY KIND. THE CHAPTER IS **NOT RESPONSIBLE** FOR:
+- System errors, bugs, or outages affecting website availability.
+- Unauthorized data breaches, hacking attempts, or misuse.
+- Any financial or operational losses related to software use.
 
 ## **8. Governing Law**
-This license agreement is governed by the laws of **South Carolina & The University of South Carolina**. Any disputes shall be resolved through fraternity arbitration or university channels.
+This license agreement is governed by the laws of **South Carolina & The University of South Carolina**. Any disputes will be handled internally by the **Alpha Epsilon Pi Gamma Chi Executive Board** or the university administration.
 
 ---
 
-📌 **By using this software, you acknowledge that you have read, understood, and agreed to this license.**
+📌 **By using this software, you acknowledge that you have read, understood, and agreed to this license. Unauthorized access, modification, or distribution is strictly prohibited.**
